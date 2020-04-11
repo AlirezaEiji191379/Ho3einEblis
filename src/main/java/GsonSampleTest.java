@@ -24,7 +24,7 @@ public class GsonSampleTest {
             System.out.println(student);
         }
         System.out.println("the End!!!!!!");
-
+        System.out.println("Ho3ein Yad Migad!!!!!!");
     }
 }
 
